@@ -1,4 +1,6 @@
-<kbd>I am Ji Xinyou, currently a graduate student of MSCS@CMU. Previously, I received my B.Eng degree in CS@SJTU.</kbd>
+<kbd>I am Ji Xinyou, currently a graduate student of MSCS at Carnegie Mellon University.</kbd>
+
+<kbd>Previously, I received my B.Eng degree in Computer Science at Shanghai Jiao Tong University.</kbd>
 
 <kbd>--- I love building computer systems running on clouds</kbd>
 
