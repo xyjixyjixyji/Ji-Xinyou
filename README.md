@@ -4,6 +4,6 @@
 
 <kbd>--- I love building computer systems running on clouds</kbd>
 
-<kbd>--- Committer of Apache OpenDAL, Review Team and Contributor of Kata-Containers</kbd>
+<kbd>--- Committer of Apache OpenDAL, Review Team Member and Contributor of Kata-Containers</kbd>
 
-<kbd>--- **Deep love in tacos(A type of Mexican food) and StarWars(THE BEST MOVIE SERIES OF ALLTIME [EPISODE 1-6])**</kbd>
+<kbd>--- **Deep love in taco(A type of Mexican food) and StarWars(THE BEST MOVIE SERIES OF ALLTIME [EPISODE 1-6])**</kbd>
