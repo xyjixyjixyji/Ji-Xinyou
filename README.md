@@ -4,15 +4,15 @@ I love building cloud-native computer systems, watching StarWars series and eati
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 October 2023 - To: 09 October 2023
+From: 03 October 2023 - To: 10 October 2023
 
-Total Time: 4 hrs 34 mins
+Total Time: 6 hrs 29 mins
 
-Python     2 hrs 50 mins   >>>>>>>>>>>>>>>>---------   62.11 %
-Rust       1 hr 27 mins    >>>>>>>>-----------------   31.73 %
-Bash       7 mins          >------------------------   02.72 %
-Text       5 mins          >------------------------   02.11 %
-Ezhil      3 mins          -------------------------   01.30 %
+Python       2 hrs 50 mins   >>>>>>>>>>>--------------   43.83 %
+Rust         2 hrs 40 mins   >>>>>>>>>>---------------   41.21 %
+C++          15 mins         >------------------------   04.07 %
+C            12 mins         >------------------------   03.25 %
+Makefile     8 mins          >------------------------   02.19 %
 ```
 
 <!--END_SECTION:waka-->
