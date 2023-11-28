@@ -4,14 +4,14 @@ I love building cloud-native computer systems, watching StarWars series and eati
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 November 2023 - To: 26 November 2023
+From: 20 November 2023 - To: 27 November 2023
 
-Total Time: 10 hrs 40 mins
+Total Time: 9 hrs 32 mins
 
-Go         10 hrs 13 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   95.73 %
-Bash       20 mins         >------------------------   03.23 %
-Markdown   6 mins          -------------------------   00.97 %
-Other      0 secs          -------------------------   00.06 %
+Go         9 hrs 5 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   95.23 %
+Bash       20 mins         >------------------------   03.62 %
+Markdown   6 mins          -------------------------   01.09 %
+Other      0 secs          -------------------------   00.07 %
 ```
 
 <!--END_SECTION:waka-->
