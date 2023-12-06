@@ -4,7 +4,7 @@ I love building cloud-native computer systems, watching StarWars series and eati
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 November 2023 - To: 04 December 2023
+From: 28 November 2023 - To: 05 December 2023
 
 Total Time: 7 hrs 54 mins
 
